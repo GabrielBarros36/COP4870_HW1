@@ -1,0 +1,15 @@
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/obj/Debug/net8.0/Library.Patients.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/obj/Debug/net8.0/Library.Patients.AssemblyInfoInputs.cache
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/obj/Debug/net8.0/Library.Patients.AssemblyInfo.cs
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/obj/Debug/net8.0/Library.Patients.csproj.CoreCompileInputs.cache
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/bin/Debug/net8.0/Library.Patients.deps.json
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/bin/Debug/net8.0/Library.Patients.dll
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/bin/Debug/net8.0/Library.Patients.pdb
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/obj/Debug/net8.0/Library.Patients.dll
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/obj/Debug/net8.0/refint/Library.Patients.dll
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/obj/Debug/net8.0/Library.Patients.pdb
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/obj/Debug/net8.0/ref/Library.Patients.dll
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/obj/Debug/net8.0/Library.Patients.csproj.AssemblyReference.cache
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/bin/Debug/net8.0/Library.Appointments.dll
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/bin/Debug/net8.0/Library.Appointments.pdb
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/obj/Debug/net8.0/Library..3E7566CC.Up2Date

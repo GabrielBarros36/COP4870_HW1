@@ -1,0 +1,15 @@
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/Library.Appointments/obj/Debug/net8.0/Library.Appointments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/Library.Appointments/obj/Debug/net8.0/Library.Appointments.AssemblyInfoInputs.cache
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/Library.Appointments/obj/Debug/net8.0/Library.Appointments.AssemblyInfo.cs
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/Library.Appointments/obj/Debug/net8.0/Library.Appointments.csproj.CoreCompileInputs.cache
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/obj/Debug/net8.0/Library.Appointments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/obj/Debug/net8.0/Library.Appointments.AssemblyInfoInputs.cache
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/obj/Debug/net8.0/Library.Appointments.AssemblyInfo.cs
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/obj/Debug/net8.0/Library.Appointments.csproj.CoreCompileInputs.cache
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/bin/Debug/net8.0/Library.Appointments.deps.json
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/bin/Debug/net8.0/Library.Appointments.dll
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/bin/Debug/net8.0/Library.Appointments.pdb
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/obj/Debug/net8.0/Library.Appointments.dll
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/obj/Debug/net8.0/refint/Library.Appointments.dll
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/obj/Debug/net8.0/Library.Appointments.pdb
+/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/obj/Debug/net8.0/ref/Library.Appointments.dll

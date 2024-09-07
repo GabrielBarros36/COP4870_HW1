@@ -1,0 +1,329 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/app/app.csproj": {}
+  },
+  "projects": {
+    "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/app/app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/app/app.csproj",
+        "projectName": "app",
+        "projectPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/app/app.csproj",
+        "packagesPath": "/Users/gabrielromaninidebarros/.nuget/packages/",
+        "outputPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/app/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gabrielromaninidebarros/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/Library.Appointments.csproj": {
+                "projectPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/Library.Appointments.csproj"
+              },
+              "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Doctors/Library.Doctors.csproj": {
+                "projectPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Doctors/Library.Doctors.csproj"
+              },
+              "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/Library.Patients.csproj": {
+                "projectPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/Library.Patients.csproj"
+              },
+              "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Practice/Library.Practice.csproj": {
+                "projectPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Practice/Library.Practice.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/Library.Appointments.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/Library.Appointments.csproj",
+        "projectName": "Library.Appointments",
+        "projectPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/Library.Appointments.csproj",
+        "packagesPath": "/Users/gabrielromaninidebarros/.nuget/packages/",
+        "outputPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gabrielromaninidebarros/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Doctors/Library.Doctors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Doctors/Library.Doctors.csproj",
+        "projectName": "Library.Doctors",
+        "projectPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Doctors/Library.Doctors.csproj",
+        "packagesPath": "/Users/gabrielromaninidebarros/.nuget/packages/",
+        "outputPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Doctors/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gabrielromaninidebarros/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/Library.Appointments.csproj": {
+                "projectPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/Library.Appointments.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/Library.Patients.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/Library.Patients.csproj",
+        "projectName": "Library.Patients",
+        "projectPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/Library.Patients.csproj",
+        "packagesPath": "/Users/gabrielromaninidebarros/.nuget/packages/",
+        "outputPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gabrielromaninidebarros/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/Library.Appointments.csproj": {
+                "projectPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/Library.Appointments.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Practice/Library.Practice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Practice/Library.Practice.csproj",
+        "projectName": "Library.Practice",
+        "projectPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Practice/Library.Practice.csproj",
+        "packagesPath": "/Users/gabrielromaninidebarros/.nuget/packages/",
+        "outputPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Practice/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gabrielromaninidebarros/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/Library.Appointments.csproj": {
+                "projectPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Appointments/Library.Appointments.csproj"
+              },
+              "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Doctors/Library.Doctors.csproj": {
+                "projectPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Doctors/Library.Doctors.csproj"
+              },
+              "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/Library.Patients.csproj": {
+                "projectPath": "/Users/gabrielromaninidebarros/Development/FSU/Fall_2024/COP_4870/Project_1/Library.Patients/Library.Patients.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

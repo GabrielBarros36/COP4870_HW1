@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Library.Practice/1.0.0": {
+        "dependencies": {
+          "Library.Appointments": "1.0.0",
+          "Library.Doctors": "1.0.0",
+          "Library.Patients": "1.0.0"
+        },
+        "runtime": {
+          "Library.Practice.dll": {}
+        }
+      },
+      "Library.Appointments/1.0.0": {
+        "runtime": {
+          "Library.Appointments.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Library.Doctors/1.0.0": {
+        "dependencies": {
+          "Library.Appointments": "1.0.0"
+        },
+        "runtime": {
+          "Library.Doctors.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Library.Patients/1.0.0": {
+        "dependencies": {
+          "Library.Appointments": "1.0.0"
+        },
+        "runtime": {
+          "Library.Patients.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Library.Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library.Appointments/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library.Doctors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library.Patients/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
